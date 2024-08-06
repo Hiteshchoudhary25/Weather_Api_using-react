@@ -1,0 +1,16 @@
+.Infobox{
+    text-align: center;
+}
+.Card-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 20px;
+   
+}
+.Card-container:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+    background-color: #000;
+    box-shadow: 0 0 15px 5px rgb(210, 226, 235);
+}

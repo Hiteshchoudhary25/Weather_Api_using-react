@@ -1,0 +1,9 @@
+.SearchBox{
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    margin-bottom: 25px;
+}
+.search{
+    border: 1px solid white;
+}
